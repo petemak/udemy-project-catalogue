@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5765488b-68ba-46e8-821e-fdda042bd74c" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/project.clj" afterPath="$PROJECT_DIR$/project.clj" />
+      <change beforePath="$PROJECT_DIR$/src/udemy_project_catalogue/service.clj" afterPath="$PROJECT_DIR$/src/udemy_project_catalogue/service.clj" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="service.clj" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/udemy_project_catalogue/service.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2970">
+              <caret line="198" column="70" lean-forward="false" selection-start-line="198" selection-start-column="70" selection-end-line="198" selection-end-column="70" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="project.clj" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/project.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="232">
+              <caret line="19" column="34" lean-forward="true" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="db.clj" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/udemy_project_catalogue/db.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-274">
+              <caret line="6" column="2" lean-forward="false" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Clojure Test Namespace" />
+        <option value="Clojure Namespace" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>get-by</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test/udemy_project_catalogue/testdata.clj" />
+        <option value="$PROJECT_DIR$/src/udemy_project_catalogue/db.clj" />
+        <option value="$PROJECT_DIR$/src/udemy_project_catalogue/service.clj" />
+        <option value="$PROJECT_DIR$/project.clj" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="984" />
+    <option name="y" value="2" />
+    <option name="width" value="931" />
+    <option name="height" value="1035" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="udemy-project-catalogue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="udemy-project-catalogue" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="udemy-project-catalogue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="udemy-project-catalogue" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="udemy-project-catalogue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="udemy-project-catalogue" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="udemy_project_catalogue" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="cursive.last.file.extension./Users/peterjoelmakumbi/dev/Clojure/udemy/udemy-project-catalogue/test" value="clj" />
+    <property name="cursive.last.file.extension./Users/peterjoelmakumbi/dev/Clojure/udemy/udemy-project-catalogue/src" value="clj" />
+  </component>
+  <component name="ReplState" timestamp="1515776629594">{:repl-history {:ide [], :local [], :remote [{:command &quot;(defn get-projects\n  \&quot;Reads all projects from DB. The collection is 'project-db-collection'\&quot;\n  []\n  (let [{:keys [conn db]} (connect-to-mongo-db)]\n    (mgr-collection/find-maps db project-db-collection)))&quot;, :offset 204, :ns &quot;udemy-project-catalogue.db&quot;} {:command &quot;(udemy-project-catalogue.db/get-projects)&quot;, :offset 41, :ns &quot;udemy-project-catalogue.server&quot;} {:command &quot;(defn get-project\n  \&quot;Reads and returns a project by the specified name projects from DB.\n   The collection is 'project-db-collection'\&quot;\n  [proj-name]\n  (let [{:keys [conn db]} (connect-to-mongo-db)]\n    (mgr-collection/find-maps db project-db-collection {:name proj-name})))&quot;, :offset 273, :ns &quot;udemy-project-catalogue.db&quot;} {:command &quot;(udemy-project-catalogue.db/get-project \&quot;Elmer-J-Fudd\&quot;)&quot;, :offset 55, :ns &quot;udemy-project-catalogue.server&quot;} {:command &quot;(defn call-github-service\n  []\n  (http-client/get \n    \&quot;https://api.github.com/search/repositories?q=music+language:clojure\&quot;\n    {:debug false\n     :content-type :json\n     :accept :json}))&quot;, :offset 189, :ns &quot;udemy-project-catalogue.service&quot;} {:command &quot;(def res udemy-project-catalogue.service/call-github-service)&quot;, :offset 61, :ns &quot;udemy-project-catalogue.server&quot;} {:command &quot;res&quot;, :offset 3, :ns &quot;udemy-project-catalogue.server&quot;} {:command &quot;(def res (udemy-project-catalogue.service/call-github-service))&quot;, :offset 63, :ns &quot;udemy-project-catalogue.server&quot;} {:command &quot;(:body res)&quot;, :offset 11, :ns &quot;udemy-project-catalogue.server&quot;} {:command &quot;(:header res)&quot;, :offset 13, :ns &quot;udemy-project-catalogue.server&quot;} {:command &quot;(:headers\n  res)&quot;, :offset 16, :ns &quot;udemy-project-catalogue.server&quot;} {:command &quot;(ns udemy-project-catalogue.service\n  (:require [io.pedestal.http :as pdstl-http]\n            [io.pedestal.http.route :as pdstl-route]\n            [io.pedestal.http.body-params :as body-params]\n            [io.pedestal.interceptor.helpers :refer [definterceptor defhandler]]\n            [ring.util.response :as ring-resp]\n            [clj-http.client :as http-client]\n            [udemy-project-catalogue.db :as db]))&quot;, :offset 417, :ns &quot;udemy-project-catalogue.server&quot;} {:command &quot;(def security-token (System/getenv \&quot;SECURITY_TOKEN\&quot;))&quot;, :offset 53, :ns &quot;udemy-project-catalogue.service&quot;} {:command &quot;(defn call-github-service\n  []\n  (http-client/get\n    \&quot;https://api.github.com/search/repositories?q=music+language:clojure\&quot;\n    {:debug false\n     :content-type :json\n     :accept :json}))&quot;, :offset 188, :ns &quot;udemy-project-catalogue.service&quot;} {:command &quot;(udemy-project-catalogue.service/call-github-service)&quot;, :offset 53, :ns &quot;udemy-project-catalogue.server&quot;} {:command &quot;()&quot;, :offset 1} {:command &quot;(monger.json/read-str (:body (udemy-project-catalogue.service/call-github-service)))&quot;, :offset 84, :ns &quot;udemy-project-catalogue.server&quot;} {:command &quot;(:body (udemy-project-catalogue.service/call-github-service))&quot;, :offset 61, :ns &quot;udemy-project-catalogue.server&quot;} {:command &quot;(clojure.data.json/read-str (:body (udemy-project-catalogue.service/call-github-service)))&quot;, :offset 90, :ns &quot;udemy-project-catalogue.server&quot;} {:command &quot;(ns udemy-project-catalogue.service\n  (:require [io.pedestal.http :as pdstl-http]\n            [io.pedestal.http.route :as pdstl-route]\n            [io.pedestal.http.body-params :as body-params]\n            [io.pedestal.interceptor.helpers :refer [definterceptor defhandler]]\n            [ring.util.response :as ring-resp]\n            [clj-http.client :as http-client]\n            [udemy-project-catalogue.db :as db]\n            [clojure.data.json :as json]))&quot;, :offset 458, :ns &quot;udemy-project-catalogue.server&quot;} {:command &quot;(udemy-project-catalogue.service/github-search)&quot;, :offset 47, :ns &quot;udemy-project-catalogue.server&quot;} {:command &quot;(def routes #{[\&quot;/\&quot; :get (conj common-interceptors `home-page2)]\n              [\&quot;/about\&quot; :get (conj common-interceptors `about-page)]\n              [\&quot;/projects\&quot; :get (conj common-interceptors `get-projects)]\n              [\&quot;/projects/:project-name\&quot; :get (conj common-interceptors `get-project)]\n              [\&quot;/projects\&quot; :post (conj common-interceptors `add-project)]\n              [\&quot;/see-also\&quot; :get git-get]})&quot;, :offset 410, :ns &quot;udemy-project-catalogue.service&quot;} {:command &quot;(defn github-search\n  []\n  (let [ret (http-client/get \&quot;https://api.github.com/search/repositories?q=language:clojure\&quot;\n                             {:debug false\n                              :content-type :json\n                              :accept :json})]\n    (json/read-str (:body ret))))&quot;, :offset 291, :ns &quot;udemy-project-catalogue.service&quot;} {:command &quot;(defn github-search\n  []\n  (let [ret (http-client/get \&quot;https://api.github.com/search/repositories?q=music+language:clojure\&quot;\n                             {:debug false\n                              :content-type :json\n                              :accept :json})]\n    (json/read-str (:body ret))))&quot;, :offset 297, :ns &quot;udemy-project-catalogue.service&quot;} {:command &quot;(defn git-get\n  [request]\n  (pdstl-http/json-response (github-search)))&quot;, :offset 71, :ns &quot;udemy-project-catalogue.service&quot;} {:command &quot;(format \&quot;Hello %\&quot; \&quot;Peter\&quot;)&quot;, :offset 26, :ns &quot;udemy-project-catalogue.server&quot;} {:command &quot;(format \&quot;Hello %s\&quot; \&quot;Peter\&quot;)&quot;, :offset 27, :ns &quot;udemy-project-catalogue.server&quot;} {:command &quot;(format \&quot;Hello %s1. It is %s2\&quot; \&quot;Peter\&quot; (java.util.Date.))&quot;, :offset 57, :ns &quot;udemy-project-catalogue.server&quot;} {:command &quot;(defn github-search\n  [q]\n  (let [url (format \&quot;https://api.github.com/search/repositories?q=%s+language:clojure\&quot; q)\n        ret (http-client/get url\n                             {:debug false\n                              :content-type :json\n                              :accept :json})]\n    (json/read-str (:body ret))))&quot;, :offset 322, :ns &quot;udemy-project-catalogue.service&quot;} {:command &quot;(defn git-get\n  ;; retrieves the querry parameter which is mapped to \&quot;q\&quot;\n  ;; and calls (github-search).\n  ;; \&quot;q\&quot; represents the paraemter after ? in the URL\n  [request]\n  (let [search-term (get-in request [:query-params :q])]\n    (pdstl-http/json-response (github-search search-term))))&quot;, :offset 287, :ns &quot;udemy-project-catalogue.service&quot;} {:command &quot;(def routes #{[\&quot;/\&quot; :get (conj common-interceptors `home-page2)]\n              [\&quot;/about\&quot; :get (conj common-interceptors `about-page)]\n              [\&quot;/projects\&quot; :get (conj common-interceptors `get-projects)]\n              [\&quot;/projects/:project-name\&quot; :get (conj common-interceptors `get-project)]\n              [\&quot;/projects\&quot; :post (conj common-interceptors `add-project)]\n              [\&quot;/see-also\&quot; :get (conj common-interceptors `git-get)]})&quot;, :offset 438, :ns &quot;udemy-project-catalogue.service&quot;} {:command &quot;(defn auth0-token\n  (let [client-id (System/getenv \&quot;AUTH0_UID\&quot;)\n        client-pwd (System/getenv \&quot;AUTH0_PWD\&quot;)\n        ret (http-client/post \&quot;https://petemak.eu.auth0.com/oauth/token\&quot;\n                              {:debug false\n                               :content-type :json\n                               :form-params {:client_id client-id\n                                             :client_secret client-pwd\n                                             :grant_type \&quot;client_credentials\&quot;}})]))&quot;, :offset 499, :ns &quot;udemy-project-catalogue.service&quot;} {:command &quot;(def auth0-token\n  (let [client-id (System/getenv \&quot;AUTH0_UID\&quot;)\n        client-pwd (System/getenv \&quot;AUTH0_PWD\&quot;)\n        ret (http-client/post \&quot;https://petemak.eu.auth0.com/oauth/token\&quot;\n                              {:debug false\n                               :content-type :json\n                               :form-params {:client_id client-id\n                                             :client_secret client-pwd\n                                             :grant_type \&quot;client_credentials\&quot;}})]))&quot;, :offset 498, :ns &quot;udemy-project-catalogue.service&quot;} {:command &quot;(defn auth0-token\n  []\n  (let [client-id (System/getenv \&quot;AUTH0_UID\&quot;)\n        client-pwd (System/getenv \&quot;AUTH0_PWD\&quot;)\n        ret (http-client/post \&quot;https://petemak.eu.auth0.com/oauth/token\&quot;\n                              {:debug false\n                               :content-type :json\n                               :form-params {:client_id client-id\n                                             :client_secret client-pwd\n                                             :grant_type \&quot;client_credentials\&quot;}})]\n    ret))&quot;, :offset 512, :ns &quot;udemy-project-catalogue.service&quot;} {:command &quot;  (udemy-project-catalogue.service/auth0-token)\n    &quot;, :offset 47, :ns &quot;udemy-project-catalogue.server&quot;} {:command &quot;(defn auth0-token\n  []\n  (let [ret (http-client/post \&quot;https://petemak.eu.auth0.com/token\&quot;\n                              {:debug false\n                               :content-type :json\n                               :form-params {:client_id (System/getenv \&quot;AUTH0_UID\&quot;)\n                                             :client_secret (System/getenv \&quot;AUTH0_PWD\&quot;)\n                                             :grant_type \&quot;client_credentials\&quot;}})]\n    (json/read-str (:body ret))))&quot;, :offset 472, :ns &quot;udemy-project-catalogue.service&quot;} {:command &quot;(defn auth0-token\n  []\n  (let [ret (http-client/post \&quot;https://petemak.eu.auth0.com/api/v2\&quot;\n                              {:debug false\n                               :content-type :json\n                               :form-params {:client_id (System/getenv \&quot;AUTH0_UID\&quot;)\n                                             :client_secret (System/getenv \&quot;AUTH0_PWD\&quot;)\n                                             :grant_type \&quot;client_credentials\&quot;}})]\n    (json/read-str (:body ret))))&quot;, :offset 473, :ns &quot;udemy-project-catalogue.service&quot;} {:command &quot;(http-client/post \&quot;https://petemak.eu.auth0.com/api/v2\&quot;\n                  {:debug false\n                   :content-type :json\n                   :form-params {:client_id (System/getenv \&quot;AUTH0_UID\&quot;)\n                                 :client_secret (System/getenv \&quot;AUTH0_PWD\&quot;)\n                                 :grant_type \&quot;client_credentials\&quot;}})&quot;, :offset 343, :ns &quot;udemy-project-catalogue.server&quot;} {:command &quot;(defn auth0-token\n  []\n  (let [ret (http-client/post \&quot;https://petemak.eu.auth0.com/api/v2\&quot;\n                              {:debug false\n                               :content-type :json\n                               :form-params {:client_id (System/getenv \&quot;AUTH0_UID\&quot;)\n                                             :client_secret (System/getenv \&quot;AUTH0_PWD\&quot;)\n                                             :grant_type \&quot;client_credentials\&quot;}})]\n    ret))&quot;, :offset 449, :ns &quot;udemy-project-catalogue.service&quot;} {:command &quot;(defn auth0-token\n  \&quot;Post to Aurh\&quot;\n  []\n  (let [ret (http-client/post \&quot;https://petemak.eu.auth0.com/oauth/token\&quot;\n                              {:debug false\n                               :content-type :json\n                               :form-params {:client_id (System/getenv \&quot;AUTH0_UID\&quot;)\n                                             :client_secret (System/getenv \&quot;AUTH0_PWD\&quot;)\n                                             :grant_type \&quot;client_credentials\&quot;}})]\n    (json/read-str (:body ret))))&quot;, :offset 495, :ns &quot;udemy-project-catalogue.service&quot;} {:command &quot;(udemy-project-catalogue.service/auth0-token)&quot;, :offset 45, :ns &quot;udemy-project-catalogue.server&quot;} {:command &quot;(defn auth0-api-call\n  \&quot;Calls Auth0 API using specified token\&quot;\n  [token]\n  (let [ret (http-client/get \&quot;https://petemak.eu.auth0.com/api/connections\&quot;\n                             {:debug false\n                              :content-type :json\n                              :accept :json\n                              :headers {\&quot;Authorization\&quot; (format \&quot;Bearer %s\&quot; token)}})]))&quot;, :offset 374, :ns &quot;udemy-project-catalogue.service&quot;} {:command &quot;udemy-project-catalogue.service/prj-xml&quot;, :offset 39, :ns &quot;udemy-project-catalogue.server&quot;} {:command &quot;(ns udemy-project-catalogue.service\n  (:require [io.pedestal.http :as pdstl-http]\n            [io.pedestal.http.route :as pdstl-route]\n            [io.pedestal.http.body-params :as body-params]\n            [io.pedestal.interceptor.helpers :refer [definterceptor defhandler]]\n            [ring.util.response :as ring-resp]\n            [clj-http.client :as http-client]\n            [udemy-project-catalogue.db :as db]\n            [clojure.data.json :as json]\n            [clojure.data.xml :as xml]))&quot;, :offset 497, :ns &quot;udemy-project-catalogue.server&quot;} {:command &quot;(def prj-xml\n  \&quot;&lt;project&gt;\n     &lt;project-name&gt;Amharigna&lt;/project-name&gt;\n     &lt;name&gt;ALearn Amharic&lt;/name&gt;\n     &lt;framework&gt;re-frame&lt;/framework&gt;\n     &lt;epo&gt;https://gitlab.com/pemak/projects/&lt;/repo&gt;\n   &lt;/project&gt;\&quot;)&quot;, :offset 207, :ns &quot;udemy-project-catalogue.service&quot;} {:command &quot;(def rwaw-prj-xml\n  \&quot;&lt;project&gt;\n     &lt;project-name&gt;Amharigna&lt;/project-name&gt;\n     &lt;name&gt;ALearn Amharic&lt;/name&gt;\n     &lt;framework&gt;re-frame&lt;/framework&gt;\n     &lt;epo&gt;https://gitlab.com/pemak/projects/&lt;/repo&gt;\n   &lt;/project&gt;\&quot;)&quot;, :offset 212, :ns &quot;udemy-project-catalogue.service&quot;} {:command &quot;(udemy-project-catalogue.service/proje-xml)&quot;, :offset 43, :ns &quot;udemy-project-catalogue.server&quot;} {:command &quot;(def raw-prj-xml\n  \&quot;&lt;project&gt;\n     &lt;project-name&gt;Amharigna&lt;/project-name&gt;\n     &lt;name&gt;ALearn Amharic&lt;/name&gt;\n     &lt;framework&gt;re-frame&lt;/framework&gt;\n     &lt;epo&gt;https://gitlab.com/pemak/projects/&lt;/repo&gt;\n   &lt;/project&gt;\&quot;)&quot;, :offset 211, :ns &quot;udemy-project-catalogue.service&quot;} {:command &quot;(def raw-prj-xml\n  \&quot;&lt;project&gt;\n     &lt;project-name&gt;Amharigna&lt;/project-name&gt;\n     &lt;name&gt;ALearn Amharic&lt;/name&gt;\n     &lt;framework&gt;re-frame&lt;/framework&gt;\n     &lt;repo&gt;https://gitlab.com/pemak/projects/&lt;/repo&gt;\n   &lt;/project&gt;\&quot;)&quot;, :offset 212, :ns &quot;udemy-project-catalogue.service&quot;} {:command &quot;(def proje-xml (xml/parse-str rwaw-prj-xml))&quot;, :offset 44, :ns &quot;udemy-project-catalogue.service&quot;} {:command &quot;udemy-project-catalogue.service/proje-xml&quot;, :offset 41, :ns &quot;udemy-project-catalogue.server&quot;} {:command &quot;(def raw-prj-xml\n  \&quot;&lt;project&gt;\n     &lt;project-name&gt;Amharigna&lt;/project-name&gt;\n     &lt;name&gt;ALearn Amharic&lt;/name&gt;\n     &lt;framework&gt;re-frame&lt;/framework&gt;\n     &lt;repo&gt;https://gitlab.com/pemak/projects&lt;/repo&gt;\n   &lt;/project&gt;\&quot;)&quot;, :offset 211, :ns &quot;udemy-project-catalogue.service&quot;} {:command &quot;(def project-xml (xml/parse-str rwaw-prj-xml))&quot;, :offset 46, :ns &quot;udemy-project-catalogue.service&quot;} {:command &quot;(def project-xml (xml/parse-str raw-prj-xml))&quot;, :offset 45, :ns &quot;udemy-project-catalogue.service&quot;} {:command &quot;(-&gt;&gt; udemy-project-catalogue.service/project-xml)&quot;, :offset 49, :ns &quot;udemy-project-catalogue.server&quot;} {:command &quot;(-&gt;&gt; udemy-project-catalogue.service/project-xml\n     :content\n     (filter #(= (:tag %) :framework))\n     :content\n     first)&quot;, :offset 127, :ns &quot;udemy-project-catalogue.server&quot;} {:command &quot;(-&gt;&gt; udemy-project-catalogue.service/project-xml\n     :content\n     (filter #(= (:tag %) :repo))\n     :content\n     first)&quot;, :offset 122, :ns &quot;udemy-project-catalogue.server&quot;} {:command &quot;(-&gt;&gt; udemy-project-catalogue.service/project-xml\n     :content\n     first)&quot;, :offset 74, :ns &quot;udemy-project-catalogue.server&quot;} {:command &quot;(-&gt;&gt; udemy-project-catalogue.service/project-xml\n     :content\n     first\n     :tag)&quot;, :offset 84, :ns &quot;udemy-project-catalogue.server&quot;} {:command &quot;(-&gt;&gt; udemy-project-catalogue.service/project-xml\n     :content\n     (filter #(= (:tag %) :repo)))\n     &quot;, :offset 97, :ns &quot;udemy-project-catalogue.server&quot;} {:command &quot;(-&gt;&gt; udemy-project-catalogue.service/project-xml\n     :content\n     (filter #(= (:tag %) :repo))\n     first)\n     &quot;, :offset 108, :ns &quot;udemy-project-catalogue.server&quot;} {:command &quot;(-&gt;&gt; udemy-project-catalogue.service/project-xml\n     :content\n     (filter #(= (:tag %) :repo))\n     first\n     :content)&quot;, :offset 122, :ns &quot;udemy-project-catalogue.server&quot;} {:command &quot;(-&gt;&gt; udemy-project-catalogue.service/project-xml\n     :content\n     (filter #(= (:tag %) :repo))\n     :content)&quot;, :offset 111, :ns &quot;udemy-project-catalogue.server&quot;} {:command &quot;(-&gt;&gt; udemy-project-catalogue.service/project-xml\n     :content\n     (filter #(= (:tag %) :repo)))\n&quot;, :offset 98, :ns &quot;udemy-project-catalogue.server&quot;} {:command &quot;(-&gt;&gt; udemy-project-catalogue.service/project-xml\n     :content\n     (filter #(= (:tag %) :repo))\n     first)\n&quot;, :offset 108, :ns &quot;udemy-project-catalogue.server&quot;} {:command &quot;(-&gt;&gt; udemy-project-catalogue.service/project-xml\n     :content\n     (filter #(= (:tag %) :repo))\n     first\n     :tag)\n&quot;, :offset 118, :ns &quot;udemy-project-catalogue.server&quot;} {:command &quot;(-&gt;&gt; udemy-project-catalogue.service/project-xml\n     :content\n     (filter #(= (:tag %) :repo))\n     first\n     :attrs)\n&quot;, :offset 120, :ns &quot;udemy-project-catalogue.server&quot;} {:command &quot;(-&gt;&gt; udemy-project-catalogue.service/project-xml\n     :content\n     (filter #(= (:tag %) :repo))\n     first\n     :content)\n&quot;, :offset 122, :ns &quot;udemy-project-catalogue.server&quot;} {:command &quot;(defn get-by-tag\n  [proj-map tname]\n  (-&gt;&gt; proj-map\n       :content\n       (filter #(= (:tag %) tname))\n       first\n       :content))&quot;, :offset 134, :ns &quot;udemy-project-catalogue.service&quot;} {:command &quot;(udemy-project-catalogue.service/get-by-tag udemy-project-catalogue.service/raw-prj-xml :repo)&quot;, :offset 94, :ns &quot;udemy-project-catalogue.server&quot;} {:command &quot;(defn get-by-tag\n  [proj-map tname]\n  (-&gt;&gt; proj-map\n       :content\n       (filter #(= (:tag %) tname))\n       first\n       :content\n       :first))&quot;, :offset 148, :ns &quot;udemy-project-catalogue.service&quot;} {:command &quot;(first '(\&quot;https://gitlab.com/pemak/projects\&quot;))&quot;, :offset 46, :ns &quot;udemy-project-catalogue.server&quot;} {:command &quot;(-&gt;&gt; udemy-project-catalogue.service/project-xml\n     :content)&quot;, :offset 63, :ns &quot;udemy-project-catalogue.server&quot;} {:command &quot;(-&gt;&gt; udemy-project-catalogue.service/project-xml\n     :content\n     (filter #(= (:tag %) :repo)))&quot;, :offset 97, :ns &quot;udemy-project-catalogue.server&quot;} {:command &quot;(-&gt;&gt; udemy-project-catalogue.service/project-xml\n     :content\n     (filter #(= (:tag %) :repo))\n     :first)&quot;, :offset 109, :ns &quot;udemy-project-catalogue.server&quot;} {:command &quot;(-&gt;&gt; udemy-project-catalogue.service/project-xml\n     :content\n     (filter #(= (:tag %) :repo))\n     first)&quot;, :offset 108, :ns &quot;udemy-project-catalogue.server&quot;} {:command &quot;(-&gt;&gt; udemy-project-catalogue.service/project-xml\n     :content\n     (filter #(= (:tag %) :repo))\n     (first))&quot;, :offset 110, :ns &quot;udemy-project-catalogue.server&quot;} {:command &quot;(-&gt;&gt; udemy-project-catalogue.service/project-xml\n     :content\n     (filter #(= (:tag %) :repo))\n     (first)\n     :content)&quot;, :offset 124, :ns &quot;udemy-project-catalogue.server&quot;} {:command &quot;(-&gt;&gt; udemy-project-catalogue.service/project-xml\n     :content\n     (filter #(= (:tag %) :repo))\n     (first)\n     :content\n     first)&quot;, :offset 135, :ns &quot;udemy-project-catalogue.server&quot;} {:command &quot;(defn get-by-tag\n  [proj-map tname]\n  (-&gt;&gt; proj-map\n       :content\n       (filter #(= (:tag %) tname))\n       first\n       :content\n       first))&quot;, :offset 147, :ns &quot;udemy-project-catalogue.service&quot;} {:command &quot;(udemy-project-catalogue.service/get-by-tag udemy-project-catalogue.service/project-xml :repo)&quot;, :offset 94, :ns &quot;udemy-project-catalogue.server&quot;} {:command &quot;(defn xml-to-map\n  \&quot;Take a raw XML string and map a known structure into a simple map\&quot;\n  [xml-str]\n  (let [proj-xml (xml/parse-str xml-str)]\n    {:proj-name (get-by-tag  proj-xml :proj-name)\n     :name (get-by-tag proj-xml :name)\n     :framework (get-by-tag proj-xml :name)\n     :language (get-by-tag proj-xml :language)\n     :repo (get-by-tag proj-xml :repo)}))&quot;, :offset 362, :ns &quot;udemy-project-catalogue.service&quot;} {:command &quot;(def raw-prj-xml\n  \&quot;&lt;project&gt;\n     &lt;project-name&gt;Amharigna&lt;/project-name&gt;\n     &lt;name&gt;Amarigna Tichalesh?&lt;/name&gt;\n     &lt;name&gt;ALearn Amharic&lt;/name&gt;\n     &lt;framework&gt;re-frame&lt;/framework&gt;\n     &lt;language&gt;Clojure&lt;/language&gt;\n     &lt;repo&gt;https://gitlab.com/pemak/projects&lt;/repo&gt;\n   &lt;/project&gt;\&quot;)&quot;, :offset 283, :ns &quot;udemy-project-catalogue.service&quot;} {:command &quot;(def raw-prj-xml\n  \&quot;&lt;project&gt;\n     &lt;proj-name&gt;Amharigna&lt;/proj-name&gt;\n     &lt;name&gt;Amarigna Tichalesh?&lt;/name&gt;\n     &lt;name&gt;ALearn Amharic&lt;/name&gt;\n     &lt;framework&gt;re-frame&lt;/framework&gt;\n     &lt;language&gt;Clojure&lt;/language&gt;\n     &lt;repo&gt;https://gitlab.com/pemak/projects&lt;/repo&gt;\n   &lt;/project&gt;\&quot;)&quot;, :offset 277, :ns &quot;udemy-project-catalogue.service&quot;} {:command &quot;(udemy-project-catalogue.service/xml-to-map udemy-project-catalogue.service/raw-prj-xml)&quot;, :offset 88, :ns &quot;udemy-project-catalogue.server&quot;} {:command &quot;udemy-project-catalogue.service/project-xml&quot;, :offset 43, :ns &quot;udemy-project-catalogue.server&quot;} {:command &quot;(defn xmldata-to-map\n  \&quot;Take a raw project XML data and map into a simple map\&quot;\n  [xml-str]\n  (let [proj-xml (xml/parse-str xml-str)]\n    {:proj-name (get-by-tag  proj-xml :proj-name)\n     :name (get-by-tag proj-xml :name)\n     :framework (get-by-tag proj-xml :name)\n     :language (get-by-tag proj-xml :language)\n     :repo (get-by-tag proj-xml :repo)}))&quot;, :offset 354, :ns &quot;udemy-project-catalogue.service&quot;} {:command &quot;(defn map-to-xmldata\n  \&quot;Turns a project map object into raw xml\&quot;\n  [src-map]\n  (xml/element :project {}\n               (xml/element :id {} (.toSring (:_id src-map)))\n               (xml/element :proj-name {} (:proj-name src-map))\n               (xml/element :name {} (:name src-map))\n               (xml/element :framework {} (:framework src-map))\n               (xml/element :language {} (:language src-map))\n               (xml/element :repo {} (:repo src-map))))&quot;, :offset 465, :ns &quot;udemy-project-catalogue.service&quot;} {:command &quot;(defn add-project-xml\n  [request]\n  (let [incoming-data (slurp (:body request))\n        proj-map (xmldata-to-map incoming-data)\n        ret (db/insert-project proj-map)]\n    (-&gt; (ring-resp/created \&quot;http://dummy-url-for-inserts\&quot;\n                           (xml/emit-str (map-to-xmldata ret)))\n        (ring-resp/content-type \&quot;application/xml\&quot;))))&quot;, :offset 345, :ns &quot;udemy-project-catalogue.service&quot;} {:command &quot;(def routes #{[\&quot;/\&quot; :get (conj common-interceptors `home-page2)]\n              [\&quot;/about\&quot; :get (conj common-interceptors `about-page)]\n              [\&quot;/projects\&quot; :get (conj common-interceptors `get-projects)]\n              [\&quot;/projects/:project-name\&quot; :get (conj common-interceptors `get-project)]\n              [\&quot;/projects\&quot; :post (conj common-interceptors `add-project)]\n              [\&quot;/projects-xml\&quot; :post common-interceptors `add-project-xml]\n              [\&quot;/see-also\&quot; :get (conj common-interceptors `git-get)]})&quot;, :offset 513, :ns &quot;udemy-project-catalogue.service&quot;} {:command &quot;System/getenv \&quot;SECURITY_TOKEN\&quot;&quot;, :offset 30, :ns &quot;udemy-project-catalogue.server&quot;} {:command &quot;(System/getenv \&quot;SECURITY_TOKEN\&quot;)&quot;, :offset 32, :ns &quot;udemy-project-catalogue.server&quot;} {:command &quot;(defn map-to-xmldata\n  \&quot;Turns a project map object into raw xml\&quot;\n  [src-map]\n  (xml/element :project {}\n               (xml/element :id {} (.toString (:_id src-map)))\n               (xml/element :proj-name {} (:proj-name src-map))\n               (xml/element :name {} (:name src-map))\n               (xml/element :framework {} (:framework src-map))\n               (xml/element :language {} (:language src-map))\n               (xml/element :repo {} (:repo src-map))))&quot;, :offset 466, :ns &quot;udemy-project-catalogue.service&quot;} {:command &quot;(def routes #{[\&quot;/\&quot; :get (conj common-interceptors `home-page2)]\n              [\&quot;/about\&quot; :get (conj common-interceptors `about-page)]\n              [\&quot;/projects\&quot; :get (conj common-interceptors `get-projects)]\n              [\&quot;/projects/:project-name\&quot; :get (conj common-interceptors `get-project)]\n              [\&quot;/projects\&quot; :post (conj common-interceptors `add-project)]\n              [\&quot;/projects-xml\&quot; :post (conj common-interceptors `add-project-xml)]\n              [\&quot;/see-also\&quot; :get (conj common-interceptors `git-get)]})&quot;, :offset 520, :ns &quot;udemy-project-catalogue.service&quot;} {:command &quot;(String. )&quot;, :offset 10, :ns &quot;udemy-project-catalogue.server&quot;} {:command &quot;(String. \&quot;wewe\&quot;)&quot;, :offset 16, :ns &quot;udemy-project-catalogue.server&quot;} {:command &quot;(new String \&quot;ewer\&quot;)&quot;, :offset 19, :ns &quot;udemy-project-catalogue.server&quot;} {:command &quot;(.toUpperCase (String. \&quot;VIVI\&quot;))&quot;, :offset 31, :ns &quot;udemy-project-catalogue.server&quot;} {:command &quot;(.toLowerCase (String. \&quot;VIVI\&quot;))&quot;, :offset 31, :ns &quot;udemy-project-catalogue.server&quot;} {:command &quot;(class (String.))&quot;, :offset 17, :ns &quot;udemy-project-catalogue.server&quot;} {:command &quot;(doto (StringBuffer.)\n  (.append \&quot;Axel\&quot;)\n  (.append \&quot;Boo\&quot;)\n  (.append \&quot;Hoohu\&quot;))&quot;, :offset 79, :ns &quot;udemy-project-catalogue.server&quot;}]}}</component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration name="remoteREPL" type="ClojureREPL" factoryName="Remote">
+      <setting name="host" value="127.0.0.1" />
+      <setting name="port" value="51945" />
+      <setting name="replType" value="0" />
+      <module name="udemy-project-catalogue" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5765488b-68ba-46e8-821e-fdda042bd74c" name="Default" comment="" />
+      <created>1515151196937</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1515151196937</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="984" y="2" width="931" height="1035" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20891365" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="REPL" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32908705" sideWeight="0.5039459" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32908705" sideWeight="0.4960541" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Leiningen" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20180383" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23623854" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/udemy_project_catalogue/service.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/udemy_project_catalogue/service.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/udemy_project_catalogue/service.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/udemy_project_catalogue/db.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="75" lean-forward="true" selection-start-line="37" selection-start-column="75" selection-end-line="37" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/udemy_project_catalogue/service.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="57" lean-forward="false" selection-start-line="33" selection-start-column="57" selection-end-line="33" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/udemy_project_catalogue/db.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="30" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/udemy_project_catalogue/service.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/udemy_project_catalogue/db.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="30" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/udemy_project_catalogue/service.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/udemy_project_catalogue/db.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="38" lean-forward="true" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/udemy_project_catalogue/server.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="54" column="25" lean-forward="false" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/udemy_project_catalogue/service.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/udemy_project_catalogue/server.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="54" column="25" lean-forward="false" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/udemy_project_catalogue/testdata.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="11" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/udemy_project_catalogue/service.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/udemy_project_catalogue/server.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="54" column="25" lean-forward="true" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/udemy_project_catalogue/testdata.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="11" lean-forward="true" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/udemy_project_catalogue/service.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/udemy_project_catalogue/server.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="54" column="25" lean-forward="false" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/udemy_project_catalogue/testdata.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71">
+          <caret line="15" column="5" lean-forward="false" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/udemy_project_catalogue/db.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-274">
+          <caret line="6" column="2" lean-forward="false" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/udemy_project_catalogue/service.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2970">
+          <caret line="198" column="70" lean-forward="false" selection-start-line="198" selection-start-column="70" selection-end-line="198" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="19" column="34" lean-forward="true" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
